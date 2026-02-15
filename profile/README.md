@@ -18,7 +18,7 @@
   <br />
 
   <h3>
-    <a href="https://hack.aq16.org">🌐 ENTER PLATFORM</a>
+    <a href="https://www.latenthacks.com/">🌐 ENTER PLATFORM</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://aq16.org">📜 EXPLORE AQ THEORY</a>
   </h3>
@@ -45,7 +45,7 @@ We operate on a **Dual-Architecture** strategy:
 
 | **The Engine (Platform)** | **The Brain (Institute)** |
 | :--- | :--- |
-| **URL:** [hack.aq16.org](https://hack.aq16.org) | **URL:** [aq16.org](https://aq16.org) |
+| **URL:** [latenthacks.com](https://www.latenthacks.com/) | **URL:** [aq16.org](https://aq16.org) |
 | **Focus:** Exhibition, Registration, Events | **Focus:** Theory, History, Lineage |
 | **Stack:** Next.js, Supabase, Tailwind | **Stack:** React, Academic Archives |
 | **Status:** `Production` | **Status:** `Research Preview` |
